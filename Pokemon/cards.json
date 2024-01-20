@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Pikachu",
+        "image_url": "\/assets\/pikachu.png",
+        "price": 45,
+        "hp": 70,
+        "element": "Lightning",
+        "element_color": "yellow",
+        "owner_id": 1
+    },
+    {
+        "id": 2,
+        "name": "Charmander",
+        "image_url": "\/assets\/charmander.png",
+        "price": 45,
+        "hp": 70,
+        "element": "Fire",
+        "element_color": "orange",
+        "owner_id": 1
+    },
+    {
+        "id": 3,
+        "name": "Jangmoo",
+        "image_url": "\/assets\/jangmoo.png",
+        "price": 95,
+        "hp": 60,
+        "element": "Dragon",
+        "element_color": "#C2A800",
+        "owner_id": 2
+    },
+    {
+        "id": 4,
+        "name": "Meowth",
+        "image_url": "\/assets\/mewoth.png",
+        "price": 100,
+        "hp": 60,
+        "element": "Darkness",
+        "element_color": "gray",
+        "owner_id": 1
+    },
+    {
+        "id": 5,
+        "name": "Mimikyu",
+        "image_url": "\/assets\/mimikyu.png",
+        "price": 250,
+        "hp": 190,
+        "element": "Psychic",
+        "element_color": "purple",
+        "owner_id": 2
+    },
+    {
+        "id": 6,
+        "name": "Slurpuff",
+        "image_url": "\/assets\/slurpuff.png",
+        "price": 120,
+        "hp": 100,
+        "element": "Fairy",
+        "element_color": "pink",
+        "owner_id": 1
+    },
+    {
+        "id": 7,
+        "name": "Squirtle",
+        "image_url": "\/assets\/squirtle.png",
+        "price": 70,
+        "hp": 70,
+        "element": "Water",
+        "element_color": "#00B6FF",
+        "owner_id": 1
+    },
+    {
+        "id": 8,
+        "name": "Smoliv",
+        "image_url": "\/assets\/smoliv.png",
+        "price": 90,
+        "hp": 60,
+        "element": "Grass",
+        "element_color": "#6FFF72",
+        "owner_id": 2
+    }
+]

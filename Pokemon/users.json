@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "password": "admin",
+        "money": 1.0000000000000014e+17,
+        "card_limit": 100001,
+        "cards": []
+    },
+    {
+        "id": 2,
+        "username": "aryan",
+        "password": "aryan123",
+        "money": 1415.5,
+        "card_limit": 2,
+        "cards": []
+    }
+]
